@@ -1,0 +1,14 @@
+.sig {
+    width: 220px;
+      height: 500px;
+      position: relative;
+      top: 15%;
+      left: 43%;
+      display: flex;
+      overflow: auto;
+}
+.sigok {
+    text-align: center;
+    color: #b29a36;
+    font-size: x-large;
+  }

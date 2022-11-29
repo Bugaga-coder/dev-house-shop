@@ -1,0 +1,17 @@
+.u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+.log {
+    width: 220px;
+      height: 250px;
+      position: relative;
+      top: 15%;
+      left: 43%;
+      display: flex;
+      overflow: auto;  
+  }
+  .logok {
+    text-align: center;
+    color: #b29a36;
+    font-size: x-large;
+  }
